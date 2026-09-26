@@ -1,3 +1,8 @@
+
+
+> **AI Assistance & Project Purpose:** I used AI to assist with generating and refining portions of the HTML, CSS, and JavaScript in this project. My primary purpose in building this project was not to demonstrate that I could write every component of a webpage from scratch. Instead, I used it as a hands-on environment to become more comfortable working through the command line, navigating directories, creating and managing files, running commands, and seeing how changes made through the CLI affected a working project. I also used the process to experiment with commands, make mistakes, troubleshoot problems, and better understand the relationship between my local environment, the files in a project, and the finished application. AI helped me build something substantial enough to practice against, while my focus was on understanding the workflow and becoming more confident using the CLI rather than simply memorizing commands.
+
+
 # Colombia Estratos Interactive Preview
 
 ## Overview
